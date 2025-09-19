@@ -20,7 +20,7 @@ public class HelloServlet extends HttpServlet {
             <html lang="en">
             <head>
                 <meta charset="UTF-8">
-                <title>Zaher Pathan Java App</title>
+                <title>Abhijit Hadawale Java App</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
                 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -137,16 +137,17 @@ public class HelloServlet extends HttpServlet {
                     <h1><span id="typed-text"></span></h1>
                     <p> </p>
                     <div class="social-buttons mt-3">
-                        <a href="https://github.com/zaherpathan" class="btn-github"><i class="fab fa-github"></i> GitHub</a>
-                        <a href="https://www.linkedin.com/in/zaher-pathan-697150242" class="btn-linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        <a href="https://github.com/abhijit2812" class="btn-github"><i class="fab fa-github"></i> GitHub</a>
+                        <a href="https://www.linkedin.com/in/abhijit-hadawale-b45a962b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+"></i> LinkedIn</a>
                     </div>
                 </div>
 
                 <script>
                     new Typed('#typed-text', {
                         strings: [
-                            "Hello, I'm Zaher Pathan 👋",
-                            "I am experience DevOps Engineer",
+                            "Hello, I'm Abhijit Hadawale 👋",
+                            "I am DevOps Enthusiast",
                             "Welcome to My App!"
                         ],
                         typeSpeed: 60,
